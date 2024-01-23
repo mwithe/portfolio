@@ -47,9 +47,9 @@ function App() {
             <div className='circle2'></div>
             <div className='circle3'></div>
             <h1 className='animate-title-left'>&#128075; Hi, I'm Matt Withey</h1>
-            <p>I’m an aspiring developer (and devout broncos fan), with a keen interest in full-stack application development and application security.</p>
+            <p>Aspiring developer, security enthusiest and devout broncos fan, with interests in full-stack development and application security.</p>
             <br></br>
-            <p>As of 2024, I have three subjects remaining in my Masters of IT, majoring in Computer Science.</p>
+            <p>As of 2024, three subjects remaining in Master of IT (CompSci) at QUT.</p>
           </div>
           <div className='profile-skills'>
             <h3 className='animate-title-right'>Front End</h3>

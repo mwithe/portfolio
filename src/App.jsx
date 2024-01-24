@@ -35,7 +35,7 @@ function App() {
   const skills = {
     frontend: ['HTML5', 'CSS3', 'JavaScript', 'React'],
     backend: ['Python', 'Flask', 'NodeJS', 'ExpressJS', 'MongoDB', 'AWS'],
-    security: ['NIST RMF', 'NIST CS', 'OWASP', 'Packet Analysis', 'Fuzzing']
+    security: ['NIST RMF', 'NIST CSF', 'Packet Analysis', 'Fuzzing']
   }
 
   return (
@@ -49,7 +49,7 @@ function App() {
             <h1 className='animate-title-left'>&#128075; Hi, I'm Matt Withey</h1>
             <p>Aspiring developer, security enthusiest and devout broncos fan, with interests in full-stack development and application security.</p>
             <br></br>
-            <p>As of 2024, three subjects remaining in Master of IT (CompSci) at QUT.</p>
+            <p>As of 2024, I have three subjects remaining in Master's of IT (CompSci) at QUT.</p>
           </div>
           <div className='profile-skills'>
             <h3 className='animate-title-right'>Front End</h3>

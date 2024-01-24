@@ -26,7 +26,7 @@ function App() {
     {
       image: groceasy1,
       title: 'Grocer-easy',
-      description: `Web application deployed to AWS ec2 instance with Docker. Utilised API calls to calculate nutritional information and health warnings based on a user's groceries`,
+      description: `Web application deployed to AWS ec2 instance with Docker. Utilised API calls to calculate nutritional information and health warnings based on a user's groceries.`,
       skills: ['Docker', 'AWS', 'JavaScript', 'NodeJS', 'ExpressJS'],
       link: 'https://github.com/mwithe/grocer-easy',
     }

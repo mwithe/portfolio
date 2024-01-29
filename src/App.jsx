@@ -1,7 +1,7 @@
 import React from 'react'
 import './styles/styles.css'
 import Card from './components/Card'
-import picture from './assets/picture.png'
+import scraper from './assets/scraper1.png'
 import picture2 from './assets/reddit-nlp.png'
 import groceasy1 from './assets/groceasy1.png'
 import Tag from './components/Tag';
@@ -10,9 +10,9 @@ function App() {
 
   const projects = [
     {
-      image: picture,
+      image: scraper,
       title: 'Recipe Scraper',
-      description: 'A personal, WIP application which scrapes recipes from the web as a means to combat my crippling inability to do efficient grocery shopping.',
+      description: 'An reenvisioning of a university assignment, this personal project scrapes recipes from the web as a means to combat my crippling inability to do efficient grocery shopping.',
       skills: ['Python', 'JavaScript', 'Flask', 'React'],
       link: 'https://github.com/mwithe/meal-planner',
     },

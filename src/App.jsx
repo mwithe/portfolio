@@ -1,14 +1,24 @@
 import React from 'react'
 import './styles/styles.css'
-import Card from './components/Card'
+
 import scraper from './assets/scraper1.png'
 import picture2 from './assets/reddit-nlp.png'
 import groceasy1 from './assets/groceasy1.png'
+import clone from './assets/clone-game.png'
+
+import Card from './components/Card'
 import Tag from './components/Tag';
 
 function App() {
 
   const projects = [
+    {
+      image: clone,
+      title: 'Connections Clone',
+      description: "A clone of the popular NY Times  'Connections' game. Click for live demo, repo available at https://github.com/mwithe/connections-clone",
+      skills: ['JavaScript', 'React', 'NodeJS', 'ExpressJS'],
+      link: 'https://connections-clone.vercel.app/',
+    },
     {
       image: scraper,
       title: 'Recipe Scraper',
